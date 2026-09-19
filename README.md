@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @cedrikwesche
-- 👨‍🎓 Computer science student at the Leibniz University Hanover
-
+- 👨‍🎓 Master's student in computer science at Leibniz University Hannover
